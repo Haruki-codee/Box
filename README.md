@@ -1,5 +1,8 @@
 # Financial Advisory Subscription & Retention Performance
 Worksheet link:https://docs.google.com/spreadsheets/d/19ZSfHocuFIrp6UJW-ixaRgd-r9CPjBzU/edit?usp=sharing&ouid=115752308656331788487&rtpof=true&sd=true
+
+Kpi link:https://datastudio.google.com/reporting/5d0b56d9-a60a-4543-802d-5cf311500548
+
 ## Project Overview
 This repository contains an executive-level data analysis and presentation framework investigating customer attrition (churn), subscription tier lifetime value (LTV), and support operations performance for a digital financial advisory subscription service. 
 
